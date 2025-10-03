@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Oficina": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\rodri\\Desktop\\Oficina\\Oficina\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+1. Struct.sql
+2. Insert.sql
+3. Indexes.sql
+
+
+
+4. DELETE.sql
